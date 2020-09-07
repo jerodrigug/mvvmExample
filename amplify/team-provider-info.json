@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mvvmexample-dev-110127-authRole",
+      "UnauthRoleArn": "arn:aws:iam::115736391206:role/amplify-mvvmexample-dev-110127-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::115736391206:role/amplify-mvvmexample-dev-110127-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mvvmexample-dev-110127-deployment",
+      "UnauthRoleName": "amplify-mvvmexample-dev-110127-unauthRole",
+      "StackName": "amplify-mvvmexample-dev-110127",
+      "StackId": "arn:aws:cloudformation:us-east-1:115736391206:stack/amplify-mvvmexample-dev-110127/702d0750-f123-11ea-87f4-12275bc6e1ef",
+      "AmplifyAppId": "d1dmw442vuuupr"
+    },
+    "categories": {
+      "auth": {
+        "mvvmexample466debeb": {}
+      }
+    }
+  }
+}

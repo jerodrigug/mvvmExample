@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "mvvmexample466debeb": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

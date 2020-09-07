@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="sign_in_text">Sign-In</string>
+    <string name="imagotipo">login_imagotipo</string>
+    <string name="email_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="new_signal">New to Musicapp?</string>
+    <string name="create_account">Create a new Musicapp account</string>
+    <string name="create_account_title">Create account</string>
+    <string name="person_name">Name</string>
+    <string name="text__createPassword">Create a password</string>
+    <string name="des_info_icon">Este icono muestra un mensaje de información</string>
+    <string name="password_info">Passwords must be at least 6 characters</string>
+    <string name="create_your_account">Create your Musicapp account</string>
+    <string name="agreettermsOfUse">By creating an account, you agree to Musicapp\'s
+        \n<b>Conditions of Use</b> and <b>Privacy Notice</b></string>
+    <string name="sign_conditions">By signing in, you agree to the <b>Terms of Use</b> . Your
+        \n Musicapp music will be saved to the cloud to
+        \n protect your purchases.</string>
+    <string name="alreadyAccount">Already have an account?</string>
+    <string name="signin_now">Sign-in now</string>
+    <string name="youremail_text">Email address</string>
+    <string name="text_allmusic">All the music you love, anywhere, anytime</string>
+    <string name="text_signup">sign up</string>
+    <string name="verification">Email verification</string>
+    <string name="text_verification_message">Enter the verification code that we send to your email.</string>
+    <string name="text_send">Send</string>
+    <string name="username"> Jhon Rodríguez </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
